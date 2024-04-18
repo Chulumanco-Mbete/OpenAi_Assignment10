@@ -1,4 +1,4 @@
-﻿namespace Assignment10_OpenAi
+﻿namespace YodaOpenAi
 {
     public partial class AppShell : Shell
     {

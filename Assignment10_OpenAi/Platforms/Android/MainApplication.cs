@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Assignment10_OpenAi
+namespace YodaOpenAi
 {
     [Application]
     public class MainApplication : MauiApplication
