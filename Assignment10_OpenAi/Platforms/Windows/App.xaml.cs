@@ -16,13 +16,8 @@ namespace YodaOpenAi.WinUI
         /// </summary>
         public App()
         {
-            this.InitializeComponent();
+           this. InitializeComponent();
         }
-
-        //private void InitializeComponent()
-        //{
-        //    throw new NotImplementedException();
-        //}
 
         protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
     }
